@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there buddies! 👋
 
 <!--
 **matikap2/matikap2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Currently working on [iotbuddy.dev](https://github.com/iotbuddy-dev) - home automation platform from scratch (web app + devices).
